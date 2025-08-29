@@ -1,4 +1,4 @@
-local Mode = "New"  -- "Old" ก็ได้
+local Mode = "Old"  -- "New" "Old" ก็ได้
 
 local Links = {
     New = "https://raw.githubusercontent.com/wino444/CollectModule_New/main/CollectModule_New.lua",
