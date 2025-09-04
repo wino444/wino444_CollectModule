@@ -2,7 +2,7 @@ local Players = game:GetService("Players")
 local LocalPlayer = Players.LocalPlayer  
 
 -- โหมดปกติที่เลือกเอง  
-local Mode = "Old"  -- "Old" / "New" / จะถูก override ถ้า user พิเศษ  
+local Mode = "New"  -- "Old" / "New" / จะถูก override ถ้า user พิเศษ  
 
 -- เปิด/ปิด Dev Mode (แม้จะมีชื่อใน DevUsers ก็ตาม)  
 local EnableDevMode = true  -- true = เปิด, false = ปิด  
