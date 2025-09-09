@@ -54,6 +54,7 @@ local Links = {
 -- รายชื่อคนที่จะบังคับใช้ Dev
 local DevUsers = {
     ["ojhvhknhj"] = true
+    ["AniF_Xx"] = true
 }
 
 -- ฟังก์ชัน debugPrint 🖥️
