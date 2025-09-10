@@ -2,7 +2,7 @@
 local CONFIG = {
     PreventDuplicateRunLoader = true, -- ป้องกันรันซ้ำสำหรับ Loader 🚫
     LoadChatSystem = true,           -- เปิด/ปิด โหลดระบบแชท 💬 (true = โหลด, false = ไม่โหลด)
-    DebugEnabled = false              -- เปิด/ปิด การแจ้งเตือนดีบั๊กใน Console 🖥️ (true = แสดง, false = เงียบ)
+    DebugEnabled = true              -- เปิด/ปิด การแจ้งเตือนดีบั๊กใน Console 🖥️ (true = แสดง, false = เงียบ)
 }
 
 -- Table การรองรับป้องกันรันซ้ำตามเวอร์ชัน 📋
