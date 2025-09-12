@@ -9,7 +9,7 @@ local LOADER_VERSION = "V2.0.5"
 
 -- Table การรองรับป้องกันรันซ้ำ 📋
 local SupportPreventDuplicate = {
-    New = false,
+    New = true,
     Old = false,
     Dev = true
 }
